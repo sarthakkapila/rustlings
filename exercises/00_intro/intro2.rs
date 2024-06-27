@@ -8,5 +8,6 @@
 // I AM NOT DONE
 
 fn main() {
-    println!("Hello there!")
+    println!("Hello there!");
+    println!("Hello there!");
 }
