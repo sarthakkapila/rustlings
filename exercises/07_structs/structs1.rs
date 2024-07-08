@@ -9,6 +9,7 @@
 
 struct ColorClassicStruct {
     // TODO: Something goes here
+    let arr = create_tuple();
 }
 
 struct ColorTupleStruct(/* TODO: Something goes here */);
